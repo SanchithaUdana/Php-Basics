@@ -31,7 +31,7 @@ echo strpos("hello world","hello"); // output 6
 // replace text
 // we use str_replace();
 
-$name = "sanchith";
+$name = "sanchitha";
 $default = "world";
 
 echo "<br>";
