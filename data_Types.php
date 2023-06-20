@@ -90,6 +90,7 @@ echo "</pre>";
 class Teacher{
     public $name;
     public $age;
+    
     // constructor of the teacher class
     public function __construct($name, $age)
     {
