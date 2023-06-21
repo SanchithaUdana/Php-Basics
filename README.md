@@ -1,3 +1,3 @@
 # Php-Basics
 
-![PHP-logo svg](https://github.com/SanchithaUdana/Php-Basics/assets/109952575/4e135867-d19e-40f0-a3d7-dca82d94f7ac)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png">
