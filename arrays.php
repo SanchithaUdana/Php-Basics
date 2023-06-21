@@ -63,9 +63,7 @@ for ($row=0; $row < 3 ; $row++) {
     // asort() - sort associative arrays in ascending order, according to the value
     // ksort() - sort associative arrays in ascending order, according to the key
     // arsort() - sort associative arrays in descending order, according to the value
-    // krsort() - sort associative arrays in descending order, according to the key
-
-
+    // krsort() - sort associative arrays in descending order, according to the key    
 
 
 
