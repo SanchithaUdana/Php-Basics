@@ -45,5 +45,7 @@
         lines
         */
 
+    echo "Hi welcome to php programming";
+
 
 ?>
