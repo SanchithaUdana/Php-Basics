@@ -46,6 +46,11 @@
         */
 
     echo "Hi welcome to php programming";
+    echo "<br>";
+    echo "This is my first php program";
+    echo "<br>";
+
+    echo "Hello World!" . "welcome sanchitha";
 
 
 ?>
