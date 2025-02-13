@@ -74,4 +74,7 @@ echo "Sentence : {$sentence}"; // output sanchithasachin
 <!-- search string position -->
 <h2>String Position : <?php echo strpos($sentence, "Udana") ?></h2>
 
+<!-- Replace String -->
+<h1>Replace : <?php echo str_replace("Udana", "udana", $sentence) ?></h1>
+
 
